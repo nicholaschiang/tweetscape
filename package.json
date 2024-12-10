@@ -47,7 +47,7 @@
     "html5parser": "^2.0.2",
     "json-bigint-patch": "^0.0.8",
     "mdx-bundler": "^9.0.0",
-    "nanoid": "^3.3.4",
+    "nanoid": "^3.3.6",
     "pg-promise": "^10.11.1",
     "postgres-array": "^3.0.1",
     "react": "^17.0.2",
